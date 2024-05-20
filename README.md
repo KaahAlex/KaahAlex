@@ -13,4 +13,5 @@ Meu nome é Karen Alexandra
 
 @K4renalx_
 
-![](https://media1.tenor.com/m/Z5x6xrH6_AQAAAAC/cat-kissing.gif)
+<img src= "https://c.tenor.com/Z5x6xrH6_AQAAAAC/tenor.gif" />
+
